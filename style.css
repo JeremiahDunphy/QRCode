@@ -36,7 +36,8 @@ background-color: hsl(212, 45%, 89%)
 
 img {
     border-radius: 25px;
-    padding: 12px;
+    padding-top: 20px;
+    padding: 16px;
     width: 300px;
     max-width: 100%;
     margin: 0 auto;    
